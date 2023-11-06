@@ -8,3 +8,6 @@ We even check if they're connected to the internet or not. All this data helps u
 
 Click [here](https://wellfc.github.io/client-detection/) to test the application.
 
+<img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889"/>&nbsp;
+<img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
