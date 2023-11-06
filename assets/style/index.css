@@ -9,29 +9,30 @@ body {
     font-family: 'Noto Sans Linear B', sans-serif;
 }
 
+main {
+  height: 100dvh;
+  display: grid;
+  place-items: center;
+}
+
 .container {
-    margin:0 auto;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-  }
+  width: min(100% - 60px, 1200px);
+  margin-inline: auto;
+}
   
   p {
     width: 100%;
   }
+
 /* sections */
 
 .section {
-    justify-content: center;
     width: 300px;
     height: 150px;
     border: 1px solid rgb(0, 0, 0);
     border-radius: 12px;
     margin-top: 30px;
     text-align: center;
-    align-items: center;
 }
 
 .section-name {
