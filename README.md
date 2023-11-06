@@ -6,5 +6,5 @@ We even check if they're connected to the internet or not. All this data helps u
 
 ### Demo
 
-Click [here] (https://wellfc.github.io/client-detection/) to test the application.
+Click [here](https://wellfc.github.io/client-detection/) to test the application.
 
